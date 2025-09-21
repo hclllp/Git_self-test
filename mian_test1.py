@@ -1,6 +1,7 @@
 #"New branch1 enlager the gap"
 #add content 1 in branch1
 #add content 2 in branch1
+#add content 3 in branch1
 """
 @File ：mian_test1.py
 @usage: --- To test usage of git verssion control ---
