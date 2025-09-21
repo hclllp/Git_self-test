@@ -95,3 +95,5 @@ def rebase_test1():
 
 def rebase_test2():
     print("rebase_test2 in branch 2")
+
+#add some content_check3
