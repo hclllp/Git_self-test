@@ -27,12 +27,13 @@ a = 4;
 b = 4;
 if a == b:
     print("a == b")
-elif a > b:
-    print("a > b")
+
 else:
     print("a > b")
 
 #It was print("a < b") //在此处不仅添加了内容还修改了内容
+#还删除了代码elif a > b:
+    #print("a > b")
 
 #再次提交，以和remote respository拉开差距
 
