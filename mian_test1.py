@@ -22,6 +22,8 @@ a = 4;
 
 #amend some ground code from root branch
 
+def hdingpoint():
+    print("hdingpoint")
 
 
 b = 4;
@@ -63,7 +65,3 @@ else:
 
 
 
-# a34 basical function
-
-def add(a,b):
-    return a+b
