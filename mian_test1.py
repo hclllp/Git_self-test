@@ -75,4 +75,14 @@ def main_test1():
 def check42point():
     print("check3point in branch 2")
 
+def check43point():
+    print("check33point in branch 2")
 
+def check44point():
+    print("check34point in branch 2")
+
+def Branch4_test1():
+    print("Branch2_test1")
+
+def add_Now_function_spcial_check4():
+    print("add_Now_function_spcial_check3")
