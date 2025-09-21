@@ -70,3 +70,15 @@ def main_test1():
     print("main_test1")
 
 
+
+def check32point():
+    print("check3point in branch 2")
+
+def check33point():
+    print("check33point in branch 2")
+
+def check34point():
+    print("check34point in branch 2")
+
+def Branch2_test1():
+    print("Branch2_test1")
