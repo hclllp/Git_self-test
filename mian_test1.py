@@ -2,8 +2,7 @@
 #add content1
 #add content2
 #add content3
-
-"""dfdd799999
+"""
 @F1ile ：mian_test1.py
 @usage: --- To test usage of git verssion control ---
 
