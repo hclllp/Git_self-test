@@ -22,6 +22,9 @@ a = 4;
 
 #amend some ground code from root branch
 
+def basics_tool():
+    print("basics_tool")
+
 
 def check3point():
     print("check3point")
