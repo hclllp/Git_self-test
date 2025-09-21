@@ -61,4 +61,7 @@ else:
 
 
 
+# a34 basical function
 
+def add(a,b):
+    return a+b
