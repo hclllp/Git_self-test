@@ -22,6 +22,8 @@ a = 4;
 
 #amend some ground code from root branch
 
+def hdingpoint():
+    print("hdingpoint")
 
 
 b = 4;
@@ -58,11 +60,6 @@ else:
 #add some content first
 #add some content second
 #add some content third
-
-
-
-#add：”I am branch2 content“
-
 
 
 
