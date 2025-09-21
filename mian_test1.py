@@ -88,3 +88,7 @@ def Branch2_test1():
 
 def add_Now_function_spcial_check3():
     print("add_Now_function_spcial_check3")
+
+
+def rebase_test1():
+    print("rebase_test1 in branch 2")
