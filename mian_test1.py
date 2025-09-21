@@ -22,6 +22,10 @@ a = 4;
 
 #amend some ground code from root branch
 
+
+def check3point():
+    print("check3point")
+
 def hdingpoint():
     print("hdingpoint")
 
