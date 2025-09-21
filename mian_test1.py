@@ -27,7 +27,7 @@ a = 4;
 
 b = 4;
 if a == b:
-    pass
+    print("a > b")
 
 else:
     print("a > b")
