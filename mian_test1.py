@@ -82,3 +82,6 @@ def check34point():
 
 def Branch2_test1():
     print("Branch2_test1")
+
+def add_Now_function_spcial_check3():
+    print("add_Now_function_spcial_check3")
