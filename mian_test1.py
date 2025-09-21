@@ -6,8 +6,15 @@
 @Date ：2025/9/21 18:36
 """
 
+#####第一次提交的代码
 
+#新增的这个
 a = 4;
+#######第二次提交排除了“.idea”文件夹的内容
+
+#.gitignorew文件的改变
+
+#####第三次提交的代码
 
 b = 4;
 if a == b:
@@ -17,4 +24,12 @@ elif a > b:
 else:
     print("a < b")
 
-#这是第一个文件
+#再次提交，以和remote respository拉开差距
+
+c = 5
+if c > b:
+    print("c > b")
+else:
+    print("c <= b")
+
+
